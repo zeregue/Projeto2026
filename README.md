@@ -1,23 +1,33 @@
-# Projeto2026
-# Project Overview
+# Informações do Projeto
+Projeto 2026
+## Objetivos
+- Apresentar os conceitos fundamentais da gestão de configuração.
+- Demonstrar a importância das práticas de controle de versão.
 
-## Objectives
-1. **Understand the principles of configuration management.** 
-2. **Implement practical activities related to configuration management tools.**
-3. **Analyze the impact of configuration management on software quality.**
+## Estrutura do Projeto
+- `src/`: Código-fonte do projeto.
+- `docs/`: Documentação e guias.
+- `tests/`: Conjuntos de testes.
 
-## Project Structure
-- **/docs**: Documentation related to the project.  
-- **/src**: Source files of the project.  
-- **/tests**: Test files to validate the project output.  
-- **README.md**: Project overview and information.  
+## Atividades Práticas
+- Implementação de um sistema de controle de versão utilizando Git.
+- Criação de um repositório remoto e local.
 
-## Practical Activities
-1. **Tool Identification and Setup** - Identifying the appropriate configuration management tools.
-2. **Implementation** - Hands-on application of configuration management practices.
-3. **Analysis and Reporting** - Documenting findings and improvements.  
+## Resultados de Aprendizado
+- Compreensão dos princípios da gestão de configuração.
+- Capacidade de utilizar ferramentas de versionamento de código.
 
-## Learning Outcomes
-- Gain a thorough understanding of configuration management techniques.  
-- Learn to apply these techniques in a practical setting.  
-- Develop documentation skills for reporting findings and outcomes.
+## Fluxo de Trabalho do Git
+1. **Clone o repositório:** `git clone <URL do repositório>`
+2. **Crie uma nova branch:** `git checkout -b <nome-da-branch>`
+3. **Realize suas alterações.**
+4. **Adicione arquivos:** `git add <arquivos>`
+5. **Faça um commit:** `git commit -m "Mensagem do commit"`
+6. **Envie para o repositório remoto:** `git push origin <nome-da-branch>`
+
+## Validação
+- Verifique se todas as etapas foram seguidas.
+- Faça um check de inconsistências na documentação.
+
+## Referências
+- [Aula Prática sobre Gestão de Configuração](<link-para-referencia>)
